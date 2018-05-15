@@ -1,3 +1,7 @@
+!Sk. Mashfiqur Rahman
+!Mechanical and Aerospace Engineering Department
+!Oklahoma State University 
+
 program lrnz
 implicit none
 integer:: i
