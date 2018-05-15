@@ -1,4 +1,4 @@
-program prob2c
+program lrnz2
 implicit none
 integer:: i
 integer,parameter::n=10000
